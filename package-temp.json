@@ -1,0 +1,23 @@
+{
+  "name": "react-native-template-test",
+  "version": "1.0.0",
+  "description": "A React native app which builds from template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashik Vetrivelu <vcashik@gmail.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "async": "^2.1.4",
+    "express": "^4.14.0",
+    "express-fileupload": "0.0.5",
+    "gulp": "^3.9.1",
+    "gulp-replace": "^0.5.4",
+    "moment": "^2.17.1",
+    "randomstring": "^1.1.5",
+    "react": "^15.4.2",
+    "react-native": "^0.40.0",
+    "sharp": "^0.17.0"
+  }
+}
